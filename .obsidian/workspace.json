@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2eae8d19156e306b",
+  "active": "e72f8e6c7ab7d889",
   "lastOpenFiles": [
     "Syllabus.canvas",
     "Vim.md",
