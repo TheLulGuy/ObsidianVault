@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ce27089f30f343d2","x":-179,"y":-88,"width":400,"height":400,"type":"file","file":"Studies/JEE Mains/Chemistry Syllabus.md"},
+		{"id":"b50a51baaa7faa9f","x":800,"y":-88,"width":400,"height":400,"type":"file","file":"Studies/JEE Mains/Physics Syllabus.md"},
+		{"id":"0f01fc10e3b7840f","x":320,"y":-88,"width":400,"height":400,"type":"file","file":"Studies/JEE Mains/Maths Syllabus.md"},
+		{"id":"6ef5a7c9124542ff","x":395,"y":-267,"width":250,"height":60,"color":"1","type":"text","text":"Syllabus"}
+	],
+	"edges":[
+		{"id":"67c2d8c183cc599e","fromNode":"6ef5a7c9124542ff","fromSide":"right","toNode":"b50a51baaa7faa9f","toSide":"top"},
+		{"id":"d6667ae46015a211","fromNode":"6ef5a7c9124542ff","fromSide":"bottom","toNode":"0f01fc10e3b7840f","toSide":"top"},
+		{"id":"f0311331537f7c37","fromNode":"6ef5a7c9124542ff","fromSide":"left","toNode":"ce27089f30f343d2","toSide":"top"}
+	]
+}

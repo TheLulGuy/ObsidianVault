@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"0bb0cb104b1df98e","x":-641,"y":-377,"width":400,"height":400,"type":"file","file":"Obsidian Tutorial.md"},
+		{"id":"c9ad5cf11784985c","x":-149,"y":-377,"width":400,"height":400,"color":"1","type":"file","file":"Coding/Python(What i know).md"},
+		{"id":"ace076a2f8874032","x":-160,"y":148,"width":250,"height":60,"type":"text","text":"something"}
+	],
+	"edges":[
+		{"id":"75d26454c06495b2","fromNode":"0bb0cb104b1df98e","fromSide":"right","toNode":"ace076a2f8874032","toSide":"left"},
+		{"id":"024309198d912c83","fromNode":"ace076a2f8874032","fromSide":"top","toNode":"0bb0cb104b1df98e","toSide":"bottom"},
+		{"id":"e8b0b8fd94b07f42","fromNode":"ace076a2f8874032","fromSide":"bottom","toNode":"0bb0cb104b1df98e","toSide":"left"},
+		{"id":"5da5aa9fe4ec8e3e","fromNode":"ace076a2f8874032","fromSide":"right","toNode":"0bb0cb104b1df98e","toSide":"top"}
+	]
+}

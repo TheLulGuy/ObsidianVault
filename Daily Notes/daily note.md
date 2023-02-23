@@ -1,0 +1,1 @@
+This is a way to link all my daily notes for Graph View
