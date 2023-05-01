@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "7ba342a80a61135a",
+        "id": "6902f1019c537a91",
         "type": "tabs",
         "children": [
           {
-            "id": "e72f8e6c7ab7d889",
+            "id": "7bbc734f73269b3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studies/JEE Mains/Chemistry Syllabus.md",
+                "file": "Self Improvement/Hamza.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a396c1d6d103fce4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sleep Schedule.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23c6fd0de6cedf4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Improvement/Shutdown Routine.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 254.5
   },
   "right": {
     "id": "3b86393e75def956",
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studies/JEE Mains/Chemistry Syllabus.md",
+                "file": "Sleep Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studies/JEE Mains/Chemistry Syllabus.md",
+                "file": "Sleep Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,20 +150,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studies/JEE Mains/Chemistry Syllabus.md"
+                "file": "Sleep Schedule.md"
               }
             }
-          },
-          {
-            "id": "bee36542e4e479c1",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,44 +171,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e72f8e6c7ab7d889",
+  "active": "a396c1d6d103fce4",
   "lastOpenFiles": [
-    "Syllabus.canvas",
-    "Vim.md",
-    "Studies/JEE Mains/Physics Syllabus.md",
-    "Studies/JEE Mains/Maths Syllabus.md",
-    "Studies/JEE Mains/Chemistry Syllabus.md",
-    "Studies/SAT.md",
-    "Studies/NEST 2023.md",
-    "Studies/JEE Mains",
-    "Studies",
-    "Self Improvement/Willpower.md",
-    "Self Improvement/Routines.md",
-    "Self Improvement/Pillars of Self Improvement.md",
-    "Self Improvement/Physical Health.md",
-    "Self Improvement/Miyamoto Musashi.md",
-    "Self Improvement/If-then rule.md",
+    "Self Improvement/Shutdown Routine.md",
+    "Self Improvement/Morning Routine.md",
+    "Sleep Schedule.md",
     "Self Improvement/Hamza.md",
     "Self Improvement/Habits.md",
-    "Self Improvement/Guide to being a Teenager.md",
-    "Self Improvement/Goals.md",
-    "Self Improvement/Discipline.md",
-    "Self Improvement/21 Principles of Dokkodo(Original).md",
-    "Self Improvement",
+    "Coding/Python(What i know).md",
     "Research/Unlimited Knowledge.md",
     "Research/Quotes.md",
     "Research/Money Making.md",
     "Research",
-    "Obsidian.md",
-    "Obsidian Tutorial.md",
-    "NMC",
+    "Self Improvement/Routines.md",
+    "Leaving Routine.md",
+    "Self Improvement/Study Routine.md",
     "Hubs/Studies(Hub).md",
+    "Self Improvement/Pillars of Self Improvement.md",
     "Hubs/Self Improvement(Hub).md",
+    "Self Improvement/Something123.md",
+    "Self Improvement/Physical Health.md",
+    "Self Improvement/Miyamoto Musashi.md",
+    "Daily Notes/Feb 18, 2023.md",
+    "Daily Notes/Feb 20, 2023.md",
+    "Self Improvement/If-then rule.md",
+    "Self Improvement/Guide to being a Teenager.md",
+    "Self Improvement/21 Principles of Dokkodo(Original).md",
+    "Self Improvement/Goals.md",
+    "Self Improvement/Discipline.md",
+    "Studies/JEE Mains/Chemistry Syllabus.md",
+    "Syllabus.canvas",
+    "Studies/JEE Mains",
+    "Studies",
+    "Self Improvement",
+    "Studies/Research",
+    "NMC",
     "Hubs",
     "Export-156774fb-f8d6-43f1-b503-c39b0579e2d2.zip",
     "Daily Notes/TestCanvas.canvas",
     "Daily Notes",
-    "Coding",
-    "Books"
+    "Coding"
   ]
 }

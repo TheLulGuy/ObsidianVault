@@ -2,6 +2,8 @@
 [[JEE Mains Syllabus(Hub)]]
 [[NEST 2023]]
 [[SAT]]
+[[Study Routine]]
+
 ## Resources
 
 - [https://vikaspedia.in/education/career-guidance/entrance-examinations/competitive-exams-after-12th](https://vikaspedia.in/education/career-guidance/entrance-examinations/competitive-exams-after-12th) - Competitive exams after 12th

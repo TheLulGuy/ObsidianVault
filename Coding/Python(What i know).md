@@ -10,4 +10,5 @@
 - [[Modules]]
 - [[Regex]]
 - [[Decorators]]
-- 
+- [[Numpy]]
+- [[Pandas]]

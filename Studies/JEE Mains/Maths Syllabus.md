@@ -3,16 +3,17 @@ Created: October 15, 2022 8:16 PM
 
 - [ ]  [Complex numbers and quadratic equations](https://learn.careers360.com/maths/complex-numbers-and-quadratic-equations-chapter/)
 - [ ]  [Matrices and determinants](https://learn.careers360.com/maths/matrices-and-determinants-chapter/)
-	1. [ ]  Matrix and operation on matrices
-	2. [ ]  Types of matrix
-	3. [ ]  Transpose of a matrix, symmetric and skew-symmetric matrix
-	4. [ ]  Conjugate of matrix, hermitian and skew-hermitian matrix
-	5. [ ]  Determinant of matrix
-	6. [ ]  Minor and cofactor of an element of matrix/determinant
-	7. [ ]  Adjoint and inverse of a matrix
-	8. [ ]  Elementary row operations and its use in finding the inverse of a matrix
-	9. [ ]  System of linear equations and Cramer's rule
-	10. [ ]  System of homogeneous linear equations
+	1. [x]  Matrix and operation on matrices
+	2. [x]  Types of matrix
+	3. [x]  Transpose of a matrix, symmetric and skew-symmetric matrix
+	4. [x]  Conjugate of matrix, hermitian and skew-hermitian matrix
+	5. [x]  Determinant of matrix
+	6. [x]  Minor and cofactor of an element of matrix/determinant
+	7. [x]  Adjoint and inverse of a matrix
+	8. [x]  Elementary row operations and its use in finding the inverse of a matrix
+	9. [x]  System of linear equations and Cramer's rule
+	10. [x]  System of homogeneous linear equations
+	11. [ ] Exercises
 - [ ]  [Sets, relations and functions](https://learn.careers360.com/maths/sets-relations-and-functions-chapter/)
 - [ ]  [Mathematical induction](https://learn.careers360.com/maths/mathematical-induction-chapter/)
 - [ ]  [Permutations and combinations](https://learn.careers360.com/maths/permutations-and-combinations-chapter/)
@@ -33,6 +34,8 @@ Created: October 15, 2022 8:16 PM
 - [ ]  [Binomial theorem and its simple applications](https://learn.careers360.com/maths/binomial-theorem-and-its-simple-applications-chapter/)
 - [ ]  [Sequence and Series](https://learn.careers360.com/maths/sequence-and-series-chapter/) 
 - [ ]  [Vector algebra](https://learn.careers360.com/maths/vector-algebra-chapter/)
+	- [x] Basic topics(NCERT + R.S. AGARWAL)
+	- [ ] Exercises
 - [ ]  [Statistics and probability](https://learn.careers360.com/maths/statistics-and-probability-chapter/)
 - [ ]  [Trigonometry](https://learn.careers360.com/maths/trigonometry-chapter/)
 - [ ]  [Co-ordinate geometry](https://learn.careers360.com/maths/co-ordinate-geometry-chapter/)
